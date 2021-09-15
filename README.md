@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @LucisLou. Just call me Lou.
 - 👀 I’m interested in video games, technology, art, UI/UX design, and various other things.
-- 🌱 I’m currently learning HTML5 & CSS3, java, javascript, digital art, and databases.
+- 🌱 I’m currently learning JavaScript, jQuery, PHP, and AngularJS.
